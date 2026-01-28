@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "SNEAKERS",
+      "count": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5D1EKZJaC5En7j7c6FIaWTOMunZpAnayDgg&s"
+    },
+    {
+      "id": 2,
+      "title": "T-SHIRTS",
+      "count": 10,
+      "image": "https://i.etsystatic.com/30980259/r/il/45acf0/3738035051/il_fullxfull.3738035051_gzpd.jpg"
+    },
+    {
+      "id": 3,
+      "title": "JACKET",
+      "count": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-aYdQ1GxTex-s2zsCPyJC6PJK1xpMJMKssw&s"
+    },
+    {
+      "id": 4,
+      "title": "PERFUME",
+      "count": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5qLApr92kZ42GZyXs5DuYb-DOuDPqbyFFQ&s"
+    }
+  ]
+}
